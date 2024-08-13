@@ -1,0 +1,24 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Projet test
+
+## Skin
+
+### Label
+label4056.text = Maison à Briançon
+
+## Media
+
+### Title
+panorama_427AF0F0_4C1A_DFCD_41CC_A6DA9F1213F8.label = 360 VR
+panorama_5C556CEE_4C0B_C7D3_41A2_28D544CF5853.label = 3602 VR
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://t3architecture.fr/
