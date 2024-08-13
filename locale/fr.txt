@@ -10,7 +10,7 @@ tour.name = Projet test
 ## Skin
 
 ### Label
-label4056.text = Maison à Briançon
+label4056.text = Projet test
 
 ## Media
 
